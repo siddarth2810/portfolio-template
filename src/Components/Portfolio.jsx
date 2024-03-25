@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Snippet Safe Project",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "A tool to organize and find code snippets. This project was won the first prize in Frost Hacks.",
+    url: "https://devpost.com/software/snippetsafe",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Hades Quest",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "A gamified todo-list to make completing your tasks more FUN",
+    url: "https://github.com/siddarth2810/Hades-Quest",
   },
   {
-    title: "My Resume Site",
+    title: "My Resume",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "Link containing my resume information.",
+    url: "https://drive.google.com/file/d/1YzU88rddWTz0mX4CdbGwZELsl4-rPheh/view?usp=sharing",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Hackerabad",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "A core team member of Hackerabad, a community of developers in Hyderabad.",
+    url: "https://twitter.com/hackerabad/",
   },
 ];
 
