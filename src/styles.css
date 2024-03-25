@@ -12,12 +12,14 @@ body {
   overflow-x: hidden;
   padding: 0;
   width: 100%;
+ 
 }
 
 div#main {
   display: flex;
   flex-direction: column;
   width: 100vw;
+  
 }
 
 section {
@@ -51,6 +53,7 @@ h1 {
   font-weight: 400;
   line-height: 0.8;
   margin: 0;
+  color: white;
 }
 
 h2 {
@@ -58,6 +61,7 @@ h2 {
   font-weight: 400;
   margin: 0;
   padding-top: 1rem;
+ 
 }
 
 h3 {
@@ -94,7 +98,7 @@ li::marker {
 }
 
 a {
-  color: black;
+  color: #76ABAE;
   text-decoration: none;
 }
 
